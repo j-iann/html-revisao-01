@@ -1,9 +1,10 @@
 {
-  "name": "teste-node",
+  "name": "eu_no_mundo",
   "version": "1.0.0",
-  "description": "meu primeiro projeto usando npm (também!!!)",
-  "main": "index.html",
+  "description": "Descrição de como me vejo no mundo em um ano.",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -11,7 +12,7 @@
   },
   "keywords": [
     "projeto",
-    "inicial"
+    "pessoal"
   ],
   "author": "Ian",
   "license": "ISC",
