@@ -1,0 +1,22 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto usando npm (também!!!)",
+  "main": "index.html",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-iann/projeto-node.git"
+  },
+  "keywords": [
+    "projeto",
+    "inicial"
+  ],
+  "author": "Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-iann/projeto-node/issues"
+  },
+  "homepage": "https://github.com/j-iann/projeto-node#readme"
+}
